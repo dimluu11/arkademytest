@@ -1,2 +1,0 @@
-# arkademytest
-test masuk arkademy
